@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BadgeMaker": {
+      "commandName": "Project",
+      "commandLineArgs": "-l testing -r this -c green -o \"C:\\temp\\badge.svg\""
+    }
+  }
+}

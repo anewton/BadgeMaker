@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <AvaloniaVersion>11.2.0</AvaloniaVersion>
+        <AvaloniaXamlInteractivityVersion>11.2.0</AvaloniaXamlInteractivityVersion>
+    </PropertyGroup>
+</Project>
